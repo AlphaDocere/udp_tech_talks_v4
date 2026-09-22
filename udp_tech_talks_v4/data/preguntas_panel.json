@@ -1,0 +1,12 @@
+{
+  "preguntas": [
+    {
+      "nombre": "Mauro",
+      "pregunta": "Que es gobernanza ",
+      "resultado": "posible_en_presentacion",
+      "charla_relacionada_id": "charla-goodson",
+      "charla_relacionada_titulo": "IA, gobernanza y adopción responsable",
+      "timestamp": "2026-09-21T22:10:49"
+    }
+  ]
+}

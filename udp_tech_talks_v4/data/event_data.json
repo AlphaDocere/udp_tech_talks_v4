@@ -1,0 +1,48 @@
+{
+  "evento": {
+    "nombre": "UDP Tech Talks Vol. 1: Mujeres construyendo el futuro de la tecnología",
+    "fecha": "2026-09-23",
+    "horario": "12:30 - 16:00",
+    "lugar": "Ejército 441, Salón Auditorio -1 (cercano a Metro Toesca)",
+    "organiza": "UDP Ingeniería Civil en Informática y Telecomunicaciones",
+    "colaboran": ["Alpha Docere", "ASUS", "Women in AI Chile", "Chile DAO", "HEI01", "Dev3Pack"],
+    "pregunta_ancla_estudiantes": "¿Cómo se educan las comunidades de desarrolladores en el 2027?"
+  },
+  "charlas": [
+    {
+      "id": "charla-goodson",
+      "titulo": "IA, gobernanza y adopción responsable",
+      "charlista": "Heileen Goodson",
+      "rol": "CEO de HEI01",
+      "tema_tags": ["ia", "gobernanza", "adopcion responsable", "etica"]
+    },
+    {
+      "id": "charla-aburto",
+      "titulo": "Mujeres, IA y participación en el futuro tecnológico",
+      "charlista": "Gloria Aburto",
+      "rol": "Comunidad Women in AI Chile / Founder Safetymind",
+      "tema_tags": ["ia", "comunidad", "diversidad", "seguridad"]
+    },
+    {
+      "id": "charla-orellana",
+      "titulo": "Datos, salud, interoperabilidad y autonomía",
+      "charlista": "Catalina Orellana",
+      "rol": "CEO of Health Proof",
+      "tema_tags": ["salud", "datos", "interoperabilidad", "privacidad"]
+    },
+    {
+      "id": "charla-wuu",
+      "titulo": "IA local y la evolución de los dispositivos preparados para IA",
+      "charlista": "Vivian Wuu",
+      "rol": "Territory Product Manager NUC & Mini PC, ASUS",
+      "tema_tags": ["hardware", "ia local", "edge computing", "dispositivos"]
+    },
+    {
+      "id": "charla-arancibia",
+      "titulo": "Mujeres en Ingeniería UDP",
+      "charlista": "Sara Arancibia",
+      "rol": "Fundadora de Mujeres en Ingeniería UDP",
+      "tema_tags": ["comunidad", "educacion", "mentoria", "ingenieria"]
+    }
+  ]
+}

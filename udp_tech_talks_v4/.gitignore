@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+data/registrants.json
+data/respuestas_estudiantes.json
+data/posibilidades.json
+data/resumen_evento.json
